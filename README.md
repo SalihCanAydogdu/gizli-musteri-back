@@ -16,7 +16,7 @@ Bu veriler, AVM yönetimlerinin kiracılar hakkında doğru değerlendirmeler ya
 
 Geliştirilen bu proje, denetim firmalarının hem **müşteri deneyimi** hem de **mali denetim** süreçlerini daha kolay, hızlı ve etkili bir şekilde yönetebilmesi amacıyla tasarlandı.  
 
-🔗 [Projenin canlı demosunu izlemek için](https://www.youtube.com/watch?v=s3otkeHVi80&t=6s)
+🔗 [Projenin canlı demosunu izlemek için](https://drive.google.com/file/d/1Gzg8g0Duj2yDEQglsrg80h_k4kTuLzpc/view?usp=drive_link)
 
 ### Özellikler  
 
